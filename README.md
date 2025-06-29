@@ -94,3 +94,7 @@ I’m currently pursuing my Bachelor of Technology in Computer Science and Engin
 LinkedIn: https://www.linkedin.com/in/viyom-pathak-724995314/
 
 GitHub: https://github.com/viyom1703
+
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7ded9338-08b6-4628-8102-dd705aa29a81)
